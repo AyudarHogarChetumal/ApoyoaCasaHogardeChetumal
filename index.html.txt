@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apoyo para la Casa Hogar de Chetumal</title>
+    <link rel="stylesheet" href="css/style.css"> </head>
+<body>
+    <header>
+        <h1>Apoyo para la Casa Hogar de Chetumal</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="about.html">Acerca de</a></li>
+                <li><a href="research.html">Investigación</a></li>
+                <li><a href="results.html">Resultados</a></li>
+                <li><a href="proposals.html">Propuestas</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="introduccion">
+            <h2>Bienvenido al proyecto de apoyo a la Casa Hogar de Chetumal</h2>
+            <p>Este sitio web es una iniciativa dedicada a visibilizar y recaudar apoyo para los niños de la Casa Hogar de Chetumal, quienes requieren asistencia en áreas fundamentales como alimentación, higiene, medicamentos y útiles escolares.</p>
+            <p>A través de nuestra investigación, hemos identificado las principales necesidades y hemos desarrollado propuestas concretas para mejorar su calidad de vida. Te invitamos a explorar las diferentes secciones para entender mejor la situación y cómo puedes contribuir.</p>
+        </section>
+
+        <section id="contexto">
+            <h2>Contexto de la Casa Hogar</h2>
+            <p>La Casa Hogar de Chetumal es un refugio esencial para niños que necesitan un hogar seguro y atención. Nuestra misión es arrojar luz sobre sus necesidades y fomentar la participación de la comunidad para brindarles el apoyo que merecen.</p>
+            <p>Según la información recopilada, los niños de la casa hogar necesitan apoyo en alimentos, higiene, medicamentos y útiles escolares.</p>
+            <img src="images/casa_hogar_apoyo.jpeg" alt="Ilustración de apoyo a casa hogar" style="max-width: 100%; height: auto;">
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Apoyo para la Casa Hogar de Chetumal. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
